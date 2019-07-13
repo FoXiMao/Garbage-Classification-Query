@@ -5,15 +5,15 @@
 ### 基于PHP编写
 
 ### 推荐运行环境:Apache/Nginx+PHP7.x+MySQL5.x
-### 安装教程
-1.创建数据库
-2.导入数据库文件 install.sql-->导入到数据库
-3.导入数据库文件 fenlei.sql-->导入到sort_list表
-4.修改`config.php`里的数据库信息
-5.后台地址 `/siteadmin/`
-6.后台用户名和密码统一为 `admin`
-7.登录后请修改密码！
-8.请保留我博客的友情链接，靴靴QAQ~鞠躬！
+### 安装教程<br >
+1.创建数据库<br >
+2.导入数据库文件 install.sql-->导入到数据库<br >
+3.导入数据库文件 fenlei.sql-->导入到sort_list表<br >
+4.修改`config.php`里的数据库信息<br >
+5.后台地址 `/siteadmin/`<br >
+6.后台用户名和密码统一为 `admin`<br >
+7.登录后请修改密码！<br >
+8.请保留我博客的友情链接，靴靴QAQ~鞠躬！<br >
 
 ### 文件结构树：<br >
 ├─ Garbage Classification Query<br >
