@@ -2,8 +2,8 @@
 垃圾分类查询系统
 
 基于PHP编写
-
-文件结构树：
+[scode type="share"]
+文件结构树：<br >
 ├─ Garbage Classification Query<br >
 │  ├─ images<br >
 │  │  └─bj<br >
@@ -26,8 +26,9 @@
 │  ├─ 1.gif<br >
 │  ├─ config.php<br >
 │  └─ index.php<br >
+</scode>
 
-!!!
+
 了解更多:<a href="https://www.citrons.cn/yuanma/255.html">更多介绍</a>
-!!!
+
 反馈Q群:451485150
