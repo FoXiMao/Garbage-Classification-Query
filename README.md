@@ -1,4 +1,5 @@
 # Garbage-Classification-Query
+
 ## 垃圾分类查询系统
 
 ## 基于PHP编写
