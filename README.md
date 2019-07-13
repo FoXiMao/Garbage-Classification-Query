@@ -4,28 +4,28 @@
 基于PHP编写
 
 文件结构树：
-├─ Garbage Classification Query
-│  ├─ images
-│  │  └─bj
-│  │    └─ 1.png
-│  ├─ include
-│  │  ├─common.php
-│  │  ├─db.class.php
-│  │  ├─function.php
-│  │  └─member.php
-│  ├─ siteadmin
-│  │  ├─add.php
-│  │  ├─edit.php
-│  │  ├─head.php
-│  │  ├─index.php
-│  │  ├─list.php
-│  │  ├─login.php
-│  │  ├─passwd.php
-│  │  ├─search.php
-│  │  └─siteset.php
-│  ├─ 1.gif
-│  ├─ config.php
-│  └─ index.php
+├─ Garbage Classification Query<br >
+│  ├─ images<br >
+│  │  └─bj<br >
+│  │    └─ 1.png<br >
+│  ├─ include<br >
+│  │  ├─common.php<br >
+│  │  ├─db.class.php<br >
+│  │  ├─function.php<br >
+│  │  └─member.php<br >
+│  ├─ siteadmin<br >
+│  │  ├─add.php<br >
+│  │  ├─edit.php<br >
+│  │  ├─head.php<br >
+│  │  ├─index.php<br >
+│  │  ├─list.php<br >
+│  │  ├─login.php<br >
+│  │  ├─passwd.php<br >
+│  │  ├─search.php<br >
+│  │  └─siteset.php<br >
+│  ├─ 1.gif<br >
+│  ├─ config.php<br >
+│  └─ index.php<br >
 
 !!!
 了解更多:<a href="https://www.citrons.cn/yuanma/255.html">更多介绍</a>
