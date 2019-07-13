@@ -90,7 +90,7 @@ if($name=$_GET['name']) {
 <input type="text" style="width:350px;" class="shareUrl" onclick="this.select()" value="http://<?php echo $_SERVER['SERVER_NAME'];?>/qq-<?php echo $name;?>.html">-->
 <?php
 	}else{
-		echo '<label><font color="green">该垃圾尚未被录入！我们希望您可以帮助我们完善垃圾分类库！QAQ~~谢谢，鞠躬！</font></label>';
+		echo '<label><font color="green">抱歉！名称为:<font color="red">'.$name.'</font>尚未被录入！如果您知道<font color="red">'.$name.'</font>是什么垃圾，我们希望您可以联系我们，帮助我们完善垃圾分类库！QAQ~~谢谢，鞠躬！</font></label>';
 	}
 }
 $DB->close();
