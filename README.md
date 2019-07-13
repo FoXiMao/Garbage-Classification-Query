@@ -3,6 +3,8 @@
 
 ## 基于PHP编写
 
+## 推荐运行环境:Apache/Nginx+PHP7.x+MySQL5.x
+
 ### 文件结构树：<br >
 ├─ Garbage Classification Query<br >
 │  ├─ images<br >
