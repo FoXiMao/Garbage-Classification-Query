@@ -6,7 +6,7 @@
 
 ### 推荐运行环境:Apache/Nginx+PHP7.x+MySQL5.x
 ### 安装教程<br >
-1.创建数据库<br >
+1.创建数据库----数据库名必须为sort<br >
 2.导入数据库文件 install.sql-->导入到数据库<br >
 3.导入数据库文件 fenlei.sql-->导入到sort_list表<br >
 4.修改`config.php`里的数据库信息<br >
