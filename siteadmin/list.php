@@ -1,6 +1,6 @@
 <?php
 /**
- * 黑名单列表
+ * 列表
 **/
 $mod='blank';
 include("../include/common.php");
